@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author:Dhananjay Belapurkar
+   # Author:AkhilaRaj
    # Additional Authors:
-   # Dhananjay Belapurkar
+   # AkhilaRaj
 
    # Input:
    # p, principal amount
